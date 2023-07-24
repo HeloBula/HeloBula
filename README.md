@@ -12,7 +12,7 @@ Estudos atuais:
 ## Atividade
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HeloBula&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HeloBula&layout=compact&langs_count=7&theme=dark"/>
 
-##Como entrar em contato comigo?
+## Como entrar em contato comigo?
 <div>
 <a href="https://instagram.com/heloisabula" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
