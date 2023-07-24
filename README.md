@@ -9,4 +9,5 @@ Estudos atuais:
   - Linguagem Python
   - Inteligência Artificial
 
-
+## Atividade
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HeloBula&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HeloBula&layout=compact&langs_count=7&theme=dark"/>
