@@ -5,7 +5,7 @@ Procuro sempre aprender coisas novas e me aperfeiçoar nas outras habilidades j�
 
 Estudos atuais:
 
-  - Linguagem C, Python
+  - Java, Typescript, Python
   - SQL
   - Inteligência Artificial
 
